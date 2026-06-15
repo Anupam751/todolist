@@ -1,0 +1,44 @@
+[
+    {
+        "title": "complete to do list code",
+        "done": false,
+        "due": "2026-06-15",
+        "priority": "high",
+        "currentDate": "2026-06-04"
+    },
+    {
+        "title": "hit 52 bodyweight",
+        "done": false,
+        "due": "2026-06-30",
+        "priority": "high",
+        "currentDate": "2026-06-05"
+    },
+    {
+        "title": "create random guitar note generator",
+        "done": false,
+        "due": "2026-06-30",
+        "priority": "medium",
+        "currentDate": "2026-06-05"
+    },
+    {
+        "title": "learn python",
+        "done": false,
+        "due": "2026-07-31",
+        "priority": "high",
+        "currentDate": "2026-06-05"
+    },
+    {
+        "title": "resign from job",
+        "done": false,
+        "due": "2026-12-31",
+        "priority": "high",
+        "currentDate": "2020-06-05"
+    },
+    {
+        "title": "learn dsa",
+        "done": false,
+        "due": "2026-12-31",
+        "priority": "medium",
+        "updated at": "2026-06-14"
+    }
+]
